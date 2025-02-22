@@ -3,7 +3,7 @@
 ### ディレクトリを変更
 
 ```
-cd nest_todo_graphql/api-server/
+cd nest_prisma_template/api-server/
 ```
 
 ### .env を作成
